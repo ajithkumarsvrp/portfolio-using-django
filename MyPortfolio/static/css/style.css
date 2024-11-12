@@ -1,0 +1,22 @@
+#education:hover {
+    color: black;
+    background-color: aqua;
+  }
+  #experience:hover {
+    color: black;
+    background-color: aqua;
+  }
+  #project:hover {
+    color: black;
+    background-color: aqua;
+  }
+  #certification:hover {
+    color: black;
+    background-color: aqua;
+  }
+
+  .nav-link:hover{
+    color: black;
+    background-color: aqua;
+   
+  }
